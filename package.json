@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-string-batch-replace-script",
+  "version": "1.0.0",
+  "description": "一个用Node.js写的批量替换文件中字符的脚本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:WeicMa/nodejs-string-batch-replace-script.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Weic",
+    "Javascript"
+  ],
+  "author": "WeicMa",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/WeicMa/nodejs-string-batch-replace-script/issues"
+  },
+  "homepage": "https://github.com/WeicMa/nodejs-string-batch-replace-script#readme"
+}
