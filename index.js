@@ -45,7 +45,7 @@ fs.writeFile('./log.txt', logDec, err=>{
                     })
                 }
             })
-            // 所有文件循环完成后再控制台输出提示信息！
+            // 所有文件循环完成后在控制台输出提示信息！
             if(index == array.length -1){               
                 callback()
             }
