@@ -1,6 +1,8 @@
 # nodejs-string-batch-replace-script
 一个用Node.js写的轻量级批量替换文件中字符的脚本。
 
+可用于批量替换Hexo文章中的url等
+
 ### 使用方法
 
 1.获取脚本
