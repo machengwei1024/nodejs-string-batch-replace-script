@@ -7,6 +7,13 @@
 
 1.获取脚本
 
+npm 方式：
+```
+npm i nodejs-string-batch-replace-script
+```
+
+Git 方式：
+
 ```
 git clone git@github.com:WeicMa/nodejs-string-batch-replace-script.git && cd nodejs-string-batch-replace-script
 ```
