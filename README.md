@@ -21,8 +21,8 @@ git clone git@github.com:WeicMa/nodejs-string-batch-replace-script.git && cd nod
 2.修改config.js配置文件
 ```
 module.exports = {
-    postPath: '',           // 文件目录的路径，例 F:\\Hexo\\source\\_posts 或 /homm/wwwroot/hexo/source/_posts
-    oldStr: '',     // 旧字符串
+    postPath: '',           // 文件目录的路径，例 F:\\Hexo\\source\\_posts 或 /data/wwwroot/hexo/source/_posts
+    oldStr: '',     // 旧字符串（需要替换掉的字符串）
     newStr: ''     // 新字符串
 }
 ```
